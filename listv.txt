@@ -17,16 +17,13 @@ TVBS HD,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&
 TVBS HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS HD,https://pull-l3-cny.douyincdn.com/live/stream-1121752023020814537.m3u8
-中视,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=60
 中视新闻,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=46
-台视,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=61
 台视新闻,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=47
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台视新闻,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
-民视,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=62
 民视新闻,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=50
 民视新闻,http://123.51.230.108:18663/.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
@@ -34,7 +31,6 @@ TVBS HD,https://pull-l3-cny.douyincdn.com/live/stream-1121752023020814537.m3u8
 民视新闻,https://ytm2.yuanhsing.cf/FTVCP.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8?blog.ntnas.top
-华视,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=63
 华视新闻,http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=51
 华视新闻,http://stream.dsichannel.com:80/hls/cts-news.m3u8
 华视新闻,http://stream.dsichannel.com/hls/cts-news.m3u8
