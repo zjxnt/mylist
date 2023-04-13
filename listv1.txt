@@ -12,7 +12,6 @@ TVBS新闻,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MECE32337740323377
 TVBS新闻,http://2023.stream-link.org/playlist/tvbs_news
 
 
-
 TVBS HD,https://pull-l3-cny.douyincdn.com/live/stream-1121752023020814537.m3u8
 TVBS HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
@@ -69,6 +68,9 @@ TVBS HD,http://2023.stream-link.org/playlist/tvbs
 华视新闻,http://stream.dsichannel.com/hls/cts-news.m3u8
 华视新闻,http://123.58.201.173:52411/test/lshotel.php?id=38
 
+
+中天新闻,http://107.151.203.111:2209/135/hk.php?id=ztxw
+中天新闻,http://2023.stream-link.org/live/1552993665
 中天新闻,http://104.192.80.27:9500/live.m3u8?c=2  
 中天新闻,http://152.69.224.242:9500/jmsytb.m3u8?c=1 
 中天新闻,zlive://173.208.209.114:7719/9011998207735731140a6271e559d549
