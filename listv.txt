@@ -1,5 +1,7 @@
 
 ☕️  热门推荐,#genre#
+
+美国中文电视,https://jpts.sinovision.net/livestream.m3u8
 TVBS新闻台,zlive://173.208.209.114:7719/f025fd26c0953b8931be3d29ab7a4a8c
 TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8 
@@ -174,7 +176,7 @@ TVB Jade (翡翠台) (720p),https://live.astradamy.com/tvbfc/index.m3u8
 
 
 CNN Live全球新闻,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8?blog.ntnas.top
-美国中文电视,https://jpts.sinovision.net/livestream.m3u8
+
 日本NHK,http://123.51.230.108:18525/.m3u8
 NHK World,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8?zshijd
 韩国阿里郎电视台,http://www.336699.live:1935/blockfour/4gtv-4gtv079.stream/playlist.m3u8
@@ -590,11 +592,14 @@ HBO2,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=56105&ext
 HBO3,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=56104&extension=ts&play_token=HqqAESBfCa
 STAR MOVIES,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=155727&extension=ts&play_token=zB1JWsM7AB
 TLC, http://www.yshmzmc.top/gtjm.php?id=live1005
-美国中文电视,https://jpts.sinovision.net/livestream.m3u8
+
 新加坡中文台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 新加坡国际,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 智林体育,http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
 好消息综合台,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
+
+
+
 🫒  超级快线,#genre#
 CCTV-1,http://39.134.136.132:6610/200000001898/460000089800010144/1.m3u8?IASHttpSessionId=OTT
 CCTV-2,http://39.134.136.132:6610/200000001898/460000089800010050/1.m3u8?IASHttpSessionId=OTT
